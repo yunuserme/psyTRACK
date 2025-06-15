@@ -1,4 +1,4 @@
-#  Psikoloji Hasta Takip Sistemi 
+#  PsyTrack: PSYCHOLOGY  PATİENT MANAGEMENT SYSTEM
 
 ## 📋 Proje Genel Bakış
 
