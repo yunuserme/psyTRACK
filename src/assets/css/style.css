@@ -1,0 +1,50 @@
+/* Genel Stiller */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Kart stilleri */
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    border: none;
+}
+
+.card-header {
+    border-radius: 8px 8px 0 0 !important;
+    font-weight: 500;
+}
+
+/* Buton stilleri */
+.btn {
+    border-radius: 4px;
+    padding: 8px 16px;
+    transition: all 0.3s;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Form stilleri */
+.form-control {
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    border-color: #86b7fe;
+}
+
+/* Hasta kartı */
+.patient-card:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}
+
+.btn-action {
+    margin-right: 5px;
+}

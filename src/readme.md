@@ -2,7 +2,7 @@
 
 ## 📋 Proje Genel Bakış
 
-Liseden beri psikolojiye ilgili olduğum için bu projeyi seçtim.Çok fazla da önceden psikologlarla görüşme şansım oldu.Bu projeyi ders notu için yapmış olablirim ama ilerde mentorluk çalışmalarımda çok daha komplex bir site kurmayı planlıyorum.Bu arada kurulum kısmı için gerçekten uğraştım.En bilmeyen adamın bile kullanacağı şekilde.Benim için sevdiğim bir alan olduğu için eğlenceli oldu.İlerde bu projeyi psikolog-hasta gibi değilde mentor-öğrenci ilişkisiyle geliştirmeyi düşünüyorum.
+Liseden beri psikolojiye ilgili olduğum için bu projeyi seçtim.Çok fazla da önceden psikologlarla görüşme şansım oldu.Bu projeyi ders notu için yapmış olablirim ama ilerde mentorluk çalışmalarımda çok daha komplex bir site kurmayı planlıyorum.Bu arada kurulum kısmı için gerçekten uğraştım.En bilmeyen adamın bile kullanacağı şekilde.Benim için sevdiğim bir alan olduğu için eğlenceli oldu.   
 
 Psikoloji Hasta Takip Sistemi, modern psikoloji pratiğinin karmaşık ihtiyaçlarını karşılamak için özel olarak tasarlanmış kapsamlı bir dijital çözümdür. Bu sistem, psikologların hastalarıyla ilgili kritik bilgileri organize etmelerine, tedavi süreçlerini takip etmelerine ve klinik iş akışlarını optimize etmelerine olanak tanır.Bu sayede psikolog hastanın tüm bilgilerini görsel olarak okunması kolay bir kartta görebilir.Bilgi karmaşıklığı artar.Psikologlar ,herkes bilirki her hastasının bilgilerini bir dolapta mavi dosyada saklar.Bu uygulama bunu ortadan kaldırır.Aşırı complex bir sistem inşa etmedim ama önemli olan temel default proje iskeleti.Otantikliği ve kullanışlılığı.
 
